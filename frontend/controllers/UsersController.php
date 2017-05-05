@@ -95,7 +95,6 @@ class UsersController extends Controller
      * If update is successful, the browser will be redirected to the 'view' page.
      * @param integer $id
      * @return mixed
-     * Test Commit
      */
     public function actionUpdate($id)
     {
